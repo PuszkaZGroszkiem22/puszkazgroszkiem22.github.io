@@ -1,0 +1,35 @@
+k{
+color:rgb(219, 176, 176)
+}
+f{
+    font-size:96px
+}
+g{
+    font-size: 27px;
+}
+body{
+    font-family: url(Bitcount_Grid_Single.zip);
+    color:rgb(255, 255, 255);
+    background-color: black;
+}
+.łóżko{
+width: 100px;
+transition: all 1.4s ease 0s;
+}
+
+.łóżko:hover{
+    transition: width: 200px;
+}
+
+ 
+.bitcount-grid-single-670 {
+    font-family: "Bitcount Grid Single", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 300;
+    font-style: normal;
+    font-variation-settings:
+      "slnt" 0,
+      "CRSV" 0.5,
+      "ELSH" 0,
+      "ELXP" 0;
+  }

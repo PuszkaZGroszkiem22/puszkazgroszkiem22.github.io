@@ -5,7 +5,7 @@ f{
     font-size:96px
 }
 g{
-    font-size: 27px;
+    font-size: 47px;
 }
 body{
     font-family: url(Bitcount_Grid_Single.zip);
@@ -32,4 +32,5 @@ transition: all 1.4s ease 0s;
       "CRSV" 0.5,
       "ELSH" 0,
       "ELXP" 0;
+
   }
